@@ -1,0 +1,1 @@
+In this project i use the blog api from 'https://jsonplaceholder.typicode.com/posts' as a fake REST API. There are 100 post and i created a pagination to make it easier to navigate. You can also filter the post with the search bar.
